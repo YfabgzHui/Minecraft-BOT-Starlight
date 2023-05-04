@@ -1,0 +1,13 @@
+v1.0：将粒子效果的三张贴图(wisp, sparkle)修改成了五角星图形;
+v1.1：将粒子贴图大小提升为64x64, 修复粒子贴图中不合适的像素锯齿; 适配更多版本mc:1.7.10~1.16.5
+v1.2：
+替换火花的贴图, 将火花改成金色的星形, 动画效果改成循环地释放/吸收魔力;
+多媒体火花替换成星形传送门样式的贴图;
+适配高版本mc:1.17.0~1.19.2;
+
+v1.0: Modified the three textures (wisp, sparkle) of the particle effect into five-pointed star graphics;
+v1.1: Increase the particle texture size to 64x64, fix inappropriate pixel aliasing in the particle texture; adapt to more versions mc:1.7.10~1.16.5
+v1.2:
+Replace the texture of the spark, change the spark to a golden star, and change the animation effect to release/absorb mana in a loop;
+Multimedia sparks replaced with star portal style textures;
+Adapt to high version mc:1.17.0~1.19.2;

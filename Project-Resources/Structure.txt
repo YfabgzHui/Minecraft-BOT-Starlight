@@ -1,0 +1,13 @@
+Resources pack
+
+-assets
+-pack.mcmeta
+-pack.png
+--botania
+---textures
+----block
+----gui
+-----entries
+----item
+----misc
+----particle
